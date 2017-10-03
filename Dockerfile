@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome
+FROM selenium/standalone-chrome:3.1.0
 
 LABEL maintainer "kotaro.yoshimatsu@gmail.com"
 
